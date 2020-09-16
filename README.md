@@ -31,9 +31,9 @@ Happy Coding!!
 <a href="https://twitter.com/pawank0411">
   <img align="left" alt="Pawan Gorai | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/pawan-kumar-gorai-b79508161/">
+<a href="https://www.linkedin.com/in/pawank0411/">
   <img align="left" alt="Pawan's LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://t.me/pawan0411">
+<a href="https://t.me/pawank0411">
   <img align="left" alt="Pawan's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
